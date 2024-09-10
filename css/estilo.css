@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+}
+
+.caixa {
+    width: 300px;
+    height: 300px;
+}
+
+.caixa:nth-child(1) {
+    background-color: red;
+}
+
+.caixa:nth-child(2) {
+    background-color: green;
+}
+
+.caixa:nth-child(3) {
+    background-color: blue;
+}
